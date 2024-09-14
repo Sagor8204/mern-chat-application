@@ -1,0 +1,22 @@
+// khalid saifullah
+As the founder of KS Devware & co-founder of Arrtal, I am Khalid Saifullah. With over 4 years of professional experience, I’m a full-stack software engineer, mobile app developer, and UI/UX designer. Worked as a senior lead full-stack developer at OpticEngine was a rewarding experience. Moreover, I work on a few startups aimed at the Russian, Chinese, American, and Dutch markets. Among the companies and entrepreneurs I have worked with are DP-Websolutions, Ganlax group, Hyvinvoivin, FN Softwares & institute, and many more. Developing software for the world of intent is something I'm passionate about and I'm dedicated to making the world of intent easy and affordable for everyone.
+
+// Eol Nuha
+I’ve always been a great problem solver, an independent introvert, and a tech freak obsessed with the latest devices. Today, I’m working from home as a software engineer for Pythys Software and I get to show off all these elements of who I am.
+I started learning to code when I was very young, though it was always more of a hobby than a career focus. After I took a tutorial on Python I fell for it and realized software engineering was the right field for me.
+I’m familiar with a variety of programming languages, including Python, JavaScript, HTML, CSS, jQuery, Vue.JS, Java, and Groovy, but I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers in the area, so feel free to connect!
+
+// Hansanul haque banna
+I am Hasanul Haque Banna. With over 4 years of professional experience, I’m a full-stack software engineer, web app developer, and UI/UX designer. I worked on some starting entrepreneur like Fleepd Team. Among the companies and entrepreneurs I have been working with FN Softwares & institute ( From Bangladesh), and many more. Currently learning many technologies for building better skill of Web Developing. I have also aimed at to learn Artificial Intelligence so that's why learning little bit about this. I am so dedicated to learn something and for my working area.
+
+// Blerim Bojaxhi
+Energetic and passionate Software Developer with a rare combination of development and analytical skills to solve problems in the computer software industry. Skilled in Web Development, Front-end Development, Back-End Web Development, Android Development, and Object-Oriented Programming (OOP). Strong software professional with a Bachelor's degree focused in Software Design from Computer Science - University of Prizren.
+
+// Kejsi Hazizaj
+Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Full stack software engineer with a Strong engineering professional with a Bachelor of Applied Science - BASc focused in Computer Science from State University of New York Empire State College.
+
+// Kristiana Mosko
+Experienced bilingual (Italian,English) Computer Science Student with a demonstrated history of working in the software development industry. Skilled in Analytical Skills, Java, Oracle, and Angular .Strong information technology professional with a Master - Business Information Technology, General from University of Tirana. Results-driven manager dedicated to maximizing profits, and creating an atmosphere of exceptional teamwork.
+
+// Fitim Bytyçi
+Junior Full Stack Developer at Ornio AS and Bachelor Student at the University of Business and Technology, highly passionated in computer science fields including Web Development, Programming, Algorithms. Communicative and friendly person with a good attitude.
